@@ -32,7 +32,7 @@ Here is how to connet a 12-Pin TPM chip to a 20-Pin port on a motherboard. Teste
 7         LAD3	    7
 8         LAD2	    5
 9         VCC3	    2
-10         LAD1	    3
+10        LAD1	    3
 11	       LAD0	    1
 12	        GND	      8
 13	      NC	
