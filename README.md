@@ -20,6 +20,7 @@ Layout of 12 pin chip
 9	    10
 11   	12
 
+
 Here is how to connet a 12-Pin TPM chip to a 20-Pin port on a motherboard. Tested with a Gigabyte Z270X Ultra Gamin rev 1 and a TPM 2.0 chip
 
 20-Pin		Name      12-Pin
