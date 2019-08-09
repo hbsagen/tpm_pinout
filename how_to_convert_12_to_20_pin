@@ -24,7 +24,7 @@ Here is how to connet a 12-Pin TPM chip to a 20-Pin port on a motherboard. Teste
 
 20-Pin    Name      12-Pin
 1         LCLK      6
-2         GND	      8
+2         GND       8
 3         LFRAME	  9
 4         (empty)	
 5         LRESET	  12
