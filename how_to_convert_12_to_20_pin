@@ -1,16 +1,16 @@
 Pin	  Name
-1	    LAD0
-2	    VCC3
-3   	 LAD1
-4   	(empty)
-5	    LAD2
-6	    LCLK
-7	    LAD3
-8	    GND
-9	    LFRAME
-10	  NC
-11	  SERIEQ
-12	  LRESET
+1     LAD0
+2     VCC3
+3     LAD1
+4     (empty)
+5     LAD2
+6     LCLK
+7     LAD3
+8     GND
+9     LFRAME
+10      NC
+11      SERIEQ
+12      LRESET
 
 Layout of 12 pin chip
 1     2
